@@ -6,7 +6,7 @@
 
 [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5548988700551/) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/leonisantosfernandes/)](https://www.linkedin.com/in/leonisantosfernandes/) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
 
-> Estudando e aprendendo todos os dias.! 📖
+> Estudando e aprendendo todos os dias! 📖
 
 - 🎓 Formando em Análise e Desenvolvimento de Sistemas na [@**UNIFTEC**]([https://www.ufrn.br/](https://www.ftec.com.br/))  
 - 🇧🇷  Morando em São José/SC, Brasil
@@ -30,10 +30,12 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
+<details>
+  <summary><strong>GitHub Status<strong/></summary>
 
 <img align="left" alt="GitHub top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonisantosdev&hide=html&langs_count=3&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=fff&title_color=58a6ff&icon_color=58a6ff" />
 
   <img align="right" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=leonisantosdev&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true&text_color=fff&title_color=58a6ff&icon_color=58a6ff" />
 
-
+</details>
 
