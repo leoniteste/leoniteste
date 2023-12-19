@@ -6,10 +6,10 @@
 
 [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5548988700551/) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/leonisantosfernandes/)](https://www.linkedin.com/in/leonisantosfernandes/) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
 
-> Every day studying and learning! 📖
+> Estudando e aprendendo todos os dias.! 📖
 
 - 🎓 Formando em Análise e Desenvolvimento de Sistemas na [@**UNIFTEC**]([https://www.ufrn.br/](https://www.ftec.com.br/))  
-- 🇧🇷 Morando em São José/SC, Brasil
+- 🇧🇷  Morando em São José/SC, Brasil
   
 <p align="left">
   ⚙️ <strong>Tecnologias:</strong>
@@ -23,21 +23,17 @@
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
 
 <p align="left">
-  🔧 <strong>Ferramentas:</strong> <i>VSCode, Git, GitHub && Figma</i>
+  🔧 <strong>Ferramentas:</strong>
 </p>
 
-
-
-<details>
-  <summary><strong>GitHub Status<strong/></summary>
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 
 <img align="left" alt="GitHub top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonisantosdev&hide=html&langs_count=3&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=fff&title_color=58a6ff&icon_color=58a6ff" />
 
   <img align="right" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=leonisantosdev&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true&text_color=fff&title_color=58a6ff&icon_color=58a6ff" />
-
-    
-</details>
 
 
 
