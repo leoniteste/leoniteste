@@ -1,7 +1,7 @@
 <img src="computer-illustration.png" width="350px" align="right" alt="notebook leoni">
 
 <h2 align="left"> 
-  Hey, I'm <i>Leôni Santos</i> ! 🖖 
+  Olá, eu me chamo <i>Leôni Santos</i> ! 🖖 
 </h2>
 
 [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5548988700551/) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/leonisantosfernandes/)](https://www.linkedin.com/in/leonisantosfernandes/) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
